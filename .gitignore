@@ -1,0 +1,15 @@
+original/
+dirty/
+*.dim
+*.zip
+build/
+.DS_Store
+*.swp
+.idea/
+.vscode/
+.toolchain/
+tests/oracle/
+.mame/
+roms/
+.xeij/
+.jre/
